@@ -1,0 +1,18 @@
+ul {
+  width: 300px;
+  height: 300px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+li {
+  width: 90px;
+  height: 90px;
+  font-family: sans-serif;
+  font-size: 80px;
+  background-color: lightblue;
+  margin: 5px;
+  list-style: none;
+  text-align: center;
+}
+
